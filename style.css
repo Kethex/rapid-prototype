@@ -16,9 +16,15 @@ body {
 
 .visible {
   color: white;
-  background-color: rgba(53, 11, 11, 0.4);
+  background-color: rgba(76, 97, 218, 0.4);
+  text-align: center;
 }
 
 .container {
-    margin: auto
+  margin: auto;
+}
+
+#HOS {
+  text-shadow: 2px 2px #3654ff;
+  }
 }
