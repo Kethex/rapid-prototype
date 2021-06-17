@@ -1,0 +1,29 @@
+.navbar {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+body {
+  background-image: url("https://i.ibb.co/8mNdsY8/rebecca-johansson-nu96-SLn4-Mk-unsplash.jpg");
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.mask {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+#central-text {
+  font-size: 6.5rem;
+}
+
+.visible {
+  color: white;
+  background-color: rgba(76, 97, 218, 0.4);
+  text-align: center;
+}
+
+.container {
+  margin: auto;
+}
+
+#HOS {
+  text-shadow: 2px 2px #3654ff;
+  }
