@@ -13,3 +13,8 @@ body {
 #central-text {
   font-size: 6.5rem;
 }
+
+.visible {
+  color: white;
+  background-color: rgba(53, 11, 11, 0.4);
+}
