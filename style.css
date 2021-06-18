@@ -11,7 +11,7 @@ body {
 }
 
 #central-text {
-  font-size: 6.5rem;
+  font-size: 8.5rem;
 }
 
 .visible {
@@ -26,4 +26,4 @@ body {
 
 #HOS {
   text-shadow: 2px 2px #3654ff;
-  }
+}
